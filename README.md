@@ -1,12 +1,10 @@
-# html.glosary
-Terms for testers
-[deepseek_html_20251007_45915a (10).html](https://github.com/user-attachments/files/22754492/deepseek_html_20251007_45915a.10.html)
+
 <!DOCTYPE html>
 <html lang="ka">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UI ელემენტების გლოსარი ბაგ რეპორტებისთვის</title>
+    <title>გლოსარი ტესტერებისთვის</title>
     <style>
         :root {
             --primary-color: #4a00e0;
